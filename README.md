@@ -1,5 +1,5 @@
 Coolprop  library is widely used for importing fluid properties in python. 
-These functions will be used in future heat transfer projects. 
+These functions will be used in my future heat transfer projects. 
 
 References<br>
 [1]https://www.engineeringtoolbox.com/specific-heat-capacity-water-d_660.html<br>
